@@ -1,0 +1,11 @@
+ls -la /www/server/panel/data/ | head -40
+echo "===== 找 site 相关 db ====="
+find /www/server/panel/data -maxdepth 2 -name "*.db" 2>/dev/null
+echo "===== tools.py 支持的命令 ====="
+grep -n -E "AddSite|delSite|site\b" /www/server/panel/tools.py | head -20
+echo "===== 面板 python 与 panelSite 类 ====="
+ls -la /www/server/panel/class/panelSite.py
+/www/server/panel/pyenv/bin/python3 -c "import sys;sys.path.insert(0,'/www/server/panel/class');sys.path.insert(0,'/www/server/panel');import panelSite;print([m for m in dir(panelSite.panelSite) if 'ite' in m])" 2>&1 | tail -3
+echo "===== bt 命令 ====="
+which bt 2>/dev/null
+ls /usr/bin/bt 2>/dev/null

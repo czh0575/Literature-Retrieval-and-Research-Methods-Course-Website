@@ -1,0 +1,7 @@
+=== 试运行 ===
+  [未命中] 06-zotero/backup-and-workflow.md :: 所以直接复制整个文件夹即可。
+第三批改写：成功 27 处，未命中 1 处
+=== 行尾断句检测 ===
+  06-zotero/citation-and-bibliography.md L215  光看规则不够直观，
+  06-zotero/metadata-and-reading.md L112  为方便快速识别，
+共 2 处

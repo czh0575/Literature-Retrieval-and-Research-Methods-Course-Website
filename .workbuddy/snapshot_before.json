@@ -1,0 +1,1759 @@
+{
+ "02-academic-ethics/ai-and-integrity.md": {
+  "lines": 57,
+  "headings": [
+   "# 3. 人工智能与研究诚信",
+   "## 3.1 可以辅助什么",
+   "## 3.2 不能替代什么",
+   "## 3.3 AI 使用记录",
+   "## 3.4 事实核验四步法",
+   "## 3.5 课堂练习"
+  ],
+  "images": [],
+  "captions": [],
+  "containers": [],
+  "tables": [
+   4
+  ],
+  "bullets": 18,
+  "para_count": 10,
+  "para_chars": 194,
+  "fences": 0,
+  "links": [],
+  "xref": []
+ },
+ "02-academic-ethics/cases.md": {
+  "lines": 44,
+  "headings": [
+   "# 4. 案例分析与自查",
+   "## 4.1 代写和买卖论文",
+   "## 4.2 改写是否等于原创",
+   "## 4.3 自查表",
+   "## 4.4 本部分作业"
+  ],
+  "images": [],
+  "captions": [],
+  "containers": [],
+  "tables": [],
+  "bullets": 16,
+  "para_count": 8,
+  "para_chars": 208,
+  "fences": 0,
+  "links": [],
+  "xref": []
+ },
+ "02-academic-ethics/citation-and-evidence.md": {
+  "lines": 60,
+  "headings": [
+   "# 2. 引用、转述与证据使用",
+   "## 2.1 什么时候必须引用",
+   "## 2.2 三种表达方式",
+   "### 直接引用",
+   "### 转述",
+   "### 综合归纳",
+   "## 2.3 证据链",
+   "## 2.4 图表和数据",
+   "## 2.5 引用自检"
+  ],
+  "images": [],
+  "captions": [],
+  "containers": [],
+  "tables": [],
+  "bullets": 13,
+  "para_count": 13,
+  "para_chars": 330,
+  "fences": 0,
+  "links": [],
+  "xref": []
+ },
+ "02-academic-ethics/misconduct.md": {
+  "lines": 58,
+  "headings": [
+   "# 1. 学术不端的类型与边界",
+   "## 1.1 学术诚信的基本含义",
+   "## 1.2 常见类型",
+   "### 抄袭与剽窃",
+   "### 伪造与篡改",
+   "### 不当署名",
+   "### 买卖和代写",
+   "## 1.3 三个容易混淆的边界",
+   "## 1.4 小练习"
+  ],
+  "images": [],
+  "captions": [],
+  "containers": [],
+  "tables": [
+   5
+  ],
+  "bullets": 13,
+  "para_count": 10,
+  "para_chars": 306,
+  "fences": 0,
+  "links": [],
+  "xref": []
+ },
+ "03-topic-selection/empirical-topic.md": {
+  "lines": 59,
+  "headings": [
+   "# 3. 实证选题与变量设计",
+   "## 3.1 X 对 Y 的基本结构",
+   "## 3.2 变量必须能够度量",
+   "## 3.3 避免关系过于直接",
+   "## 3.4 数据可得性",
+   "## 3.5 练习：改造一个宽泛题目"
+  ],
+  "images": [],
+  "captions": [],
+  "containers": [],
+  "tables": [],
+  "bullets": 18,
+  "para_count": 13,
+  "para_chars": 297,
+  "fences": 0,
+  "links": [],
+  "xref": []
+ },
+ "03-topic-selection/principles.md": {
+  "lines": 58,
+  "headings": [
+   "# 1. 选题的四项原则",
+   "## 1.1 研究性：题目必须包含需要解释的问题",
+   "## 1.2 创新性：不等于一定要提出惊天动地的新理论",
+   "## 1.3 时效性：关注现实变化，但不要追逐热词",
+   "## 1.4 可行性：在有限时间内完成",
+   "## 1.5 练习：四项原则评分"
+  ],
+  "images": [],
+  "captions": [],
+  "containers": [],
+  "tables": [],
+  "bullets": 18,
+  "para_count": 13,
+  "para_chars": 310,
+  "fences": 0,
+  "links": [],
+  "xref": []
+ },
+ "03-topic-selection/tax-directions.md": {
+  "lines": 47,
+  "headings": [
+   "# 2. 税收学选题方向",
+   "## 2.1 八个常见方向",
+   "## 2.2 从“大方向”缩到“小问题”",
+   "## 2.3 方向选择的建议",
+   "## 2.4 练习：把方向改写成问题"
+  ],
+  "images": [],
+  "captions": [],
+  "containers": [],
+  "tables": [
+   10
+  ],
+  "bullets": 5,
+  "para_count": 9,
+  "para_chars": 162,
+  "fences": 0,
+  "links": [],
+  "xref": []
+ },
+ "03-topic-selection/workflow-and-feasibility.md": {
+  "lines": 48,
+  "headings": [
+   "# 4. 从兴趣到选题说明",
+   "## 4.1 六步选题流程",
+   "## 4.2 “是什么、为什么、怎么办”",
+   "## 4.3 选题说明模板",
+   "## 4.4 自检清单"
+  ],
+  "images": [],
+  "captions": [],
+  "containers": [],
+  "tables": [],
+  "bullets": 22,
+  "para_count": 7,
+  "para_chars": 134,
+  "fences": 0,
+  "links": [],
+  "xref": []
+ },
+ "04-opening-report/background-and-significance.md": {
+  "lines": 51,
+  "headings": [
+   "# 2. 背景、意义与研究问题",
+   "## 2.1 研究背景的三个维度",
+   "### 国家与政策背景",
+   "### 社会与现实背景",
+   "### 学界与理论背景",
+   "## 2.2 研究意义",
+   "### 理论意义",
+   "### 现实意义",
+   "## 2.3 研究问题的写法",
+   "## 2.4 段落模板"
+  ],
+  "images": [],
+  "captions": [],
+  "containers": [],
+  "tables": [],
+  "bullets": 4,
+  "para_count": 13,
+  "para_chars": 346,
+  "fences": 0,
+  "links": [],
+  "xref": []
+ },
+ "04-opening-report/checklist.md": {
+  "lines": 56,
+  "headings": [
+   "# 4. 进度安排与提交前检查",
+   "## 4.1 进度安排",
+   "## 4.2 参考文献要求",
+   "## 4.3 提交前检查",
+   "## 4.4 课程作业"
+  ],
+  "images": [],
+  "captions": [],
+  "containers": [],
+  "tables": [
+   7
+  ],
+  "bullets": 19,
+  "para_count": 9,
+  "para_chars": 215,
+  "fences": 0,
+  "links": [],
+  "xref": []
+ },
+ "04-opening-report/methods-and-roadmap.md": {
+  "lines": 62,
+  "headings": [
+   "# 3. 研究内容、方法与技术路线",
+   "## 3.1 研究内容",
+   "## 3.2 研究方法",
+   "## 3.3 技术路线",
+   "## 3.4 重点与难点",
+   "### 研究重点",
+   "### 研究难点"
+  ],
+  "images": [],
+  "captions": [],
+  "containers": [],
+  "tables": [],
+  "bullets": 10,
+  "para_count": 12,
+  "para_chars": 284,
+  "fences": 2,
+  "links": [],
+  "xref": []
+ },
+ "04-opening-report/structure.md": {
+  "lines": 58,
+  "headings": [
+   "# 1. 开题报告的结构",
+   "## 1.1 七个基本部分",
+   "## 1.2 结构之间的关系",
+   "## 1.3 常见章节框架",
+   "### 实证分析类",
+   "### 规范分析类"
+  ],
+  "images": [],
+  "captions": [],
+  "containers": [],
+  "tables": [],
+  "bullets": 19,
+  "para_count": 7,
+  "para_chars": 137,
+  "fences": 2,
+  "links": [],
+  "xref": []
+ },
+ "05-cnki-retrieval/cnki-interface.md": {
+  "lines": 273,
+  "headings": [
+   "# 4.2 知网界面与检索字段",
+   "## 4.2.1 为什么要先认识界面，再谈技巧",
+   "## 4.2.2 知网首页的检索入口",
+   "## 4.2.3 一框式检索：默认字段是“主题”",
+   "## 4.2.4 检索结果页的七个区域",
+   "## 4.2.5 检索字段对照表",
+   "## 4.2.6 高级检索面板",
+   "## 4.2.7 专业检索的检索式语法",
+   "## 4.2.8 句子检索、作者检索、机构检索分别何时用",
+   "## 4.2.9 检索结果的排序方式",
+   "## 4.2.10 检索历史的管理",
+   "## 4.2.11 文献详情页与“知网节”",
+   "## 4.2.12 课堂实操"
+  ],
+  "images": [
+   "/images/cnki/c01-cnki-home.svg",
+   "/images/cnki/c02-cnki-result-page.svg",
+   "/images/cnki/c03-cnki-advanced-search.svg"
+  ],
+  "captions": [
+   "*图 4-3 知网首页的检索入口。①检索类型 ②检索框 ③检索按钮 ④高级检索入口。*",
+   "*图 4-4 知网检索结果页的七个区域。*",
+   "*图 4-5 知网高级检索面板。①字段下拉 ②逻辑关系 ③时间范围 ④来源类别。*"
+  ],
+  "containers": [
+   "warning",
+   "tip",
+   "warning",
+   "warning",
+   "warning",
+   "warning",
+   "tip",
+   "warning",
+   "tip",
+   "warning"
+  ],
+  "tables": [
+   6,
+   9,
+   14,
+   6,
+   11,
+   5,
+   6,
+   8
+  ],
+  "bullets": 41,
+  "para_count": 43,
+  "para_chars": 2439,
+  "fences": 10,
+  "links": [
+   "https://www.cnki.net"
+  ],
+  "xref": []
+ },
+ "05-cnki-retrieval/core-journals.md": {
+  "lines": 254,
+  "headings": [
+   "# 4.4 定位核心期刊：CSSCI、北大核心与其他",
+   "## 4.4.1 为什么要区分期刊层次",
+   "## 4.4.2 国内主要期刊评价体系一览",
+   "## 4.4.3 不同评价体系如何选择：税收学的优先级",
+   "## 4.4.4 在知网用“来源类别”筛选核心期刊",
+   "## 4.4.5 结果条目上的核心标识怎么读",
+   "## 4.4.6 期刊导航：按刊核实与浏览",
+   "## 4.4.7 税收学 / 财政学可参考的中文期刊清单",
+   "## 4.4.8 如何判断某刊是否适合你的选题",
+   "## 4.4.9 核心期刊不等于“合适文献”",
+   "## 4.4.10 自查清单：手里的文献层次够不够",
+   "## 4.4.11 一个完整的筛选路径示例",
+   "## 4.4.12 课堂实操"
+  ],
+  "images": [
+   "/images/cnki/c07-source-filter.svg",
+   "/images/cnki/c06-result-item.svg",
+   "/images/cnki/c08-journal-nav.svg"
+  ],
+  "captions": [
+   "*图 4-7 检索结果页左侧的“来源类别”筛选面板。*",
+   "*图 4-9 知网检索结果条目上可以读到的信息。*",
+   "*图 4-8 知网期刊导航页。*"
+  ],
+  "containers": [
+   "warning",
+   "warning",
+   "对税收学",
+   "tip",
+   "warning",
+   "tip",
+   "warning",
+   "warning",
+   "warning",
+   "warning",
+   "details",
+   "tip",
+   "tip"
+  ],
+  "tables": [
+   5,
+   8,
+   7,
+   9,
+   15
+  ],
+  "bullets": 54,
+  "para_count": 48,
+  "para_chars": 2694,
+  "fences": 0,
+  "links": [],
+  "xref": []
+ },
+ "05-cnki-retrieval/keyword-system.md": {
+  "lines": 258,
+  "headings": [
+   "# 4.1 从论文题目到关键词体系",
+   "## 4.1.1 为什么先写题目，再打开数据库",
+   "## 4.1.2 把论文题目拆成概念块",
+   "## 4.1.3 关键词金字塔：五层结构",
+   "## 4.1.4 同义词与近义词从哪里找",
+   "## 4.1.5 关键词表的字段与样例",
+   "## 4.1.6 如何确定搜索范围：五个维度画边界",
+   "## 4.1.7 先求全，再限定：两次检索的分工",
+   "## 4.1.8 关键词表与检索式的衔接",
+   "## 4.1.9 常见错误",
+   "## 4.1.10 课堂实操"
+  ],
+  "images": [
+   "/images/cnki/c04-keyword-pyramid.svg",
+   "/images/cnki/c05-keyword-table.svg"
+  ],
+  "captions": [
+   "*图 4-1 关键词金字塔。上位词扩大范围，核心词保证相关性，相关词发现新表述。*",
+   "*图 4-2 关键词表样例：概念角色—关键词—来源依据。*"
+  ],
+  "containers": [
+   "tip",
+   "warning",
+   "details",
+   "tip",
+   "warning",
+   "tip",
+   "warning",
+   "warning"
+  ],
+  "tables": [
+   7,
+   7,
+   7,
+   7,
+   7,
+   12,
+   12,
+   6,
+   7,
+   8
+  ],
+  "bullets": 32,
+  "para_count": 45,
+  "para_chars": 2554,
+  "fences": 2,
+  "links": [],
+  "xref": []
+ },
+ "05-cnki-retrieval/research-trace.md": {
+  "lines": 260,
+  "headings": [
+   "# 4.6 追踪研究脉络与结果分析",
+   "## 4.6.1 为什么要从“换关键词”转向“追脉络”",
+   "## 4.6.2 从一篇关键文献出发的五条线索",
+   "### 线索一：参考文献（往回看）",
+   "### 线索二：引证文献（往后看）",
+   "### 线索三：同被引文献",
+   "### 线索四：相似文献",
+   "### 线索五：同一作者的其他论文",
+   "## 4.6.3 知网节与引证关系页面",
+   "### 如何打开",
+   "### 页面上能看到的信息",
+   "## 4.6.4 可视化分析工具",
+   "### 各类图形的读法",
+   "### 关键词共现网络怎么读",
+   "### 文献互引网络怎么读",
+   "### 发表年度趋势怎么读",
+   "## 4.6.5 用可视化结果修正关键词表",
+   "## 4.6.6 用“发表年度趋势”判断选题升降温",
+   "## 4.6.7 综述类文献与学位论文的特殊价值",
+   "## 4.6.8 建立研究地图：六维归类法",
+   "## 4.6.9 如何选择作为“锚点”的关键文献",
+   "## 4.6.10 研究地图的填写示例",
+   "## 4.6.11 用互引网络识别研究阵营与定位切入点",
+   "### 读网络的三步",
+   "### 用阵营结构判断创新点",
+   "## 4.6.12 课堂实操"
+  ],
+  "images": [
+   "/images/cnki/c11-visual-analysis.svg"
+  ],
+  "captions": [
+   "*图 4-12 知网结果页的可视化分析入口与关键词共现网络。*"
+  ],
+  "containers": [
+   "tip",
+   "warning",
+   "warning",
+   "tip",
+   "warning",
+   "tip",
+   "warning",
+   "details",
+   "tip",
+   "warning",
+   "tip"
+  ],
+  "tables": [
+   7,
+   7,
+   8,
+   6,
+   5,
+   8,
+   7,
+   9,
+   6
+  ],
+  "bullets": 13,
+  "para_count": 44,
+  "para_chars": 3071,
+  "fences": 2,
+  "links": [],
+  "xref": [
+   "参见 4.6.9"
+  ]
+ },
+ "05-cnki-retrieval/retrieval-log.md": {
+  "lines": 261,
+  "headings": [
+   "# 4.7 题录导出与检索日志",
+   "## 4.7.1 为什么要导出题录而不是手抄",
+   "## 4.7.2 选定待读文献：勾选操作路径",
+   "### 操作步骤（以结果列表页为例）",
+   "## 4.7.3 导出题录的入口与对话框",
+   "## 4.7.4 导出格式对照表",
+   "### 该选哪种格式：按用途决策",
+   "## 4.7.5 关键提醒：机器格式与文本格式不可混用",
+   "## 4.7.6 导出后必须人工核对的字段清单",
+   "## 4.7.7 常见导出问题与处理",
+   "### 导出故障速查表（一页速查）",
+   "## 4.7.8 导出文件的命名、去重与归档",
+   "### 命名规范",
+   "### 去重",
+   "### 归档结构",
+   "## 4.7.9 检索日志的意义与模板",
+   "## 4.7.10 把检索日志写成开题报告里的一段话",
+   "## 4.7.11 提交成果：文献检索与筛选表",
+   "## 4.7.12 课堂实操"
+  ],
+  "images": [
+   "/images/cnki/c10-export-dialog.svg"
+  ],
+  "captions": [
+   "*图 4-13 知网批量导出题录对话框与可选格式。*"
+  ],
+  "containers": [
+   "warning",
+   "warning",
+   "warning",
+   "tip",
+   "warning",
+   "warning",
+   "tip",
+   "warning",
+   "tip",
+   "tip",
+   "warning",
+   "details",
+   "tip"
+  ],
+  "tables": [
+   5,
+   10,
+   6,
+   10,
+   8,
+   8,
+   5,
+   10,
+   11
+  ],
+  "bullets": 21,
+  "para_count": 40,
+  "para_chars": 2430,
+  "fences": 2,
+  "links": [],
+  "xref": []
+ },
+ "05-cnki-retrieval/screening-and-export.md": {
+  "lines": 319,
+  "headings": [
+   "# 4.5 用标题和摘要快速判断文献价值",
+   "## 4.5.1 为什么需要“快速判断”而不是“通读全文”",
+   "## 4.5.2 三遍筛选法：标题筛 → 摘要筛 → 全文筛",
+   "### 为什么不能跳过前两遍",
+   "### 为什么不能止步于前两遍",
+   "## 4.5.3 标题里要看的六件事",
+   "### 标题逐条分析示例",
+   "## 4.5.4 摘要的五要素解剖",
+   "### 摘要逐句标注示例一",
+   "### 摘要逐句标注示例二",
+   "## 4.5.5 摘要之外还要看的信息",
+   "## 4.5.6 判断“是否为我所用”的五个问题",
+   "## 4.5.7 相关性判定表与处理策略",
+   "## 4.5.8 纳入与排除标准的写法",
+   "## 4.5.9 常见误判与规避",
+   "## 4.5.10 阅读优先级排序：A / B / C 三档",
+   "## 4.5.11 课堂实操"
+  ],
+  "images": [
+   "/images/cnki/c13-cnki-abstract-anatomy.svg",
+   "/images/cnki/c09-cnki-abstract-expanded.svg"
+  ],
+  "captions": [
+   "*图 4-10 摘要的五要素解剖：从一段摘要中提取五类信息。*",
+   "*图 4-11 结果条目展开后的摘要、关键词与引证信息。*"
+  ],
+  "containers": [
+   "warning",
+   "tip",
+   "details",
+   "tip",
+   "warning",
+   "details",
+   "tip",
+   "warning",
+   "warning",
+   "tip"
+  ],
+  "tables": [
+   5,
+   8,
+   7,
+   5,
+   5,
+   5,
+   5,
+   8,
+   6,
+   5,
+   8,
+   5,
+   8
+  ],
+  "bullets": 67,
+  "para_count": 46,
+  "para_chars": 2335,
+  "fences": 0,
+  "links": [],
+  "xref": [
+   "参见 3.",
+   "参见 4.6"
+  ]
+ },
+ "05-cnki-retrieval/search-strategy.md": {
+  "lines": 269,
+  "headings": [
+   "# 4.3 检索式设计与三轮检索法",
+   "## 4.3.1 什么是检索式",
+   "## 4.3.2 布尔逻辑：AND / OR / NOT 的用法",
+   "## 4.3.3 截词、通配与精确匹配",
+   "## 4.3.4 三轮检索法：从发现到锁定",
+   "### 第一轮：发现词（Discover Terms）",
+   "### 第二轮：提高相关性（Improve Relevance）",
+   "### 第三轮：锁定证据（Lock Evidence）",
+   "## 4.3.5 三个税收学题目的完整检索式示例",
+   "### 示例一：研发费用加计扣除与企业创新",
+   "### 示例二：税收营商环境与企业投资",
+   "### 示例三：数字经济与税收征管",
+   "## 4.3.6 用知网节做滚雪球检索",
+   "## 4.3.7 三轮检索记录模板与示例",
+   "## 4.3.8 结果太多 / 太少：逐条排查表",
+   "## 4.3.9 查全率与查准率的权衡",
+   "## 4.3.10 课堂实操"
+  ],
+  "images": [
+   "/images/cnki/c12-three-rounds.svg"
+  ],
+  "captions": [
+   "*图 4-6 三轮检索法：发现词 → 提高相关性 → 锁定证据。*"
+  ],
+  "containers": [
+   "warning",
+   "tip",
+   "details",
+   "warning",
+   "tip",
+   "tip",
+   "warning"
+  ],
+  "tables": [
+   5,
+   5,
+   5,
+   11,
+   5
+  ],
+  "bullets": 56,
+  "para_count": 42,
+  "para_chars": 1713,
+  "fences": 14,
+  "links": [],
+  "xref": [
+   "参见 4.1.7"
+  ]
+ },
+ "05-foreign-retrieval/preparation.md": {
+  "lines": 252,
+  "headings": [
+   "# 5.1 外文检索的准备：从中文议题到英文检索词",
+   "## 5.1.1 为什么外文文献不能省",
+   "## 5.1.2 从中文关键词到英文检索词的四条路径",
+   "### 路径一：读已发表中文论文的英文摘要与关键词栏",
+   "### 路径二：读知网检索结果里的外文文献（外文题录）",
+   "### 路径三：用政策文件与政府网站的官方英译",
+   "### 路径四：用术语表 / 专业词典 / AI 辅助翻译，但必须回验",
+   "## 5.1.3 中英文关键词对照表的制作方法",
+   "## 5.1.4 英文学术表达与口语表达的差别",
+   "## 5.1.5 税收学高频术语中英速查表",
+   "## 5.1.6 英文检索也要建“金字塔”",
+   "## 5.1.7 缩写与全称必须都检索",
+   "## 5.1.8 单词拼写与地区差异",
+   "## 5.1.9 常见错误的准备方式",
+   "## 5.1.10 检索词地道性的判断与回验示范",
+   "## 5.1.11 课堂实操"
+  ],
+  "images": [
+   "/images/foreign/f12-term-mapping.svg"
+  ],
+  "captions": [
+   "*图 5-1 从中文议题到英文检索词的对照路径。*"
+  ],
+  "containers": [
+   "tip",
+   "warning",
+   "details",
+   "warning",
+   "details"
+  ],
+  "tables": [
+   7,
+   8,
+   35,
+   12,
+   6,
+   7,
+   7
+  ],
+  "bullets": 25,
+  "para_count": 47,
+  "para_chars": 4022,
+  "fences": 0,
+  "links": [
+   "https://scholar.google.com",
+   "https://www.imf.org",
+   "https://www.oecd.org/tax/",
+   "https://www.sciencedirect.com/search"
+  ],
+  "xref": []
+ },
+ "05-foreign-retrieval/sci-ssci-and-jcr.md": {
+  "lines": 253,
+  "headings": [
+   "# 5.5 SCI/SSCI 收录判定、JCR 分区与影响因子",
+   "## 5.5.1 先分清几组概念",
+   "## 5.5.2 常见误解澄清",
+   "## 5.5.3 如何确认一篇文献发表在 SCI/SSCI 收录期刊上",
+   "### 路径一：在 WoS 中检索该文献，看记录标识",
+   "### 路径二：在 WoS 的“出版物”中查期刊名",
+   "### 路径三：到 Journal Citation Reports（JCR）查分区与指标",
+   "## 5.5.4 JCR 是什么、在哪里查",
+   "## 5.5.5 JCR 的关键指标怎么读",
+   "### Journal Impact Factor（JIF，期刊影响因子）",
+   "### JIF Quartile（Q1—Q4，期刊分区）",
+   "### JIF Rank 与 JIF Percentile",
+   "### JCI（Journal Citation Indicator，期刊引文指标）",
+   "### Category（学科类别）",
+   "### 辅助指标：自引率与发文量",
+   "## 5.5.6 JCR 分区与中科院分区的区别",
+   "## 5.5.7 Q1 不等于适合自己",
+   "## 5.5.8 用“索引类型”筛文献的正确姿势",
+   "## 5.5.9 常见问题与自查清单",
+   "## 5.5.10 论文中如何规范标注收录层级",
+   "## 课堂实操"
+  ],
+  "images": [
+   "/images/foreign/f08-wos-journal.svg",
+   "/images/foreign/f09-jcr-quartile.svg"
+  ],
+  "captions": [
+   "*图 5-9 在 WoS 中查看来源出版物的收录信息与学科类目。*",
+   "*图 5-10 JCR 分区与影响因子示意：同一学科类别内按指标高低分为 Q1-Q4。*"
+  ],
+  "containers": [
+   "warning",
+   "tip",
+   "warning",
+   "tip",
+   "warning",
+   "details",
+   "warning",
+   "tip",
+   "还需提醒一点",
+   "warning",
+   "details",
+   "tip",
+   "warning"
+  ],
+  "tables": [
+   8,
+   8,
+   7,
+   8,
+   5
+  ],
+  "bullets": 53,
+  "para_count": 41,
+  "para_chars": 3011,
+  "fences": 0,
+  "links": [
+   "https://jcr.clarivate.com"
+  ],
+  "xref": []
+ },
+ "05-foreign-retrieval/sciencedirect-refine.md": {
+  "lines": 252,
+  "headings": [
+   "# 5.3 结果精炼、文献阅读与全文获取",
+   "## 5.3.1 结果页布局",
+   "## 5.3.2 Refine by 面板详解",
+   "## 5.3.3 结果条目上的关键信息",
+   "## 5.3.4 文章详情页构成",
+   "## 5.3.5 读英文摘要的 90 秒策略",
+   "## 5.3.6 外文文献的筛选判断表",
+   "## 5.3.7 全文获取的六条途径",
+   "## 5.3.8 导出题录",
+   "## 5.3.9 抓取失败或下载失败的常见原因与处理",
+   "## 5.3.10 用 Cited by 与 Recommended articles 顺藤摸瓜",
+   "## 5.3.11 课堂实操"
+  ],
+  "images": [
+   "/images/foreign/f03-sd-results.svg",
+   "/images/foreign/f04-sd-result-item.svg",
+   "/images/foreign/f05-sd-article.svg"
+  ],
+  "captions": [
+   "*图 5-4 ScienceDirect 结果页与左侧 Refine by 精炼面板。*",
+   "*图 5-5 单条结果条目上的信息。*",
+   "*图 5-6 ScienceDirect 文章详情页。①Abstract ②Highlights ③Keywords ④Download PDF ⑤Cite ⑥Cited by ⑦Recommended articles。*"
+  ],
+  "containers": [
+   "tip",
+   "warning",
+   "details",
+   "tip",
+   "warning",
+   "tip",
+   "导出后建议立即在",
+   "warning",
+   "tip",
+   "此外"
+  ],
+  "tables": [
+   7,
+   9,
+   8,
+   8,
+   5,
+   7,
+   5
+  ],
+  "bullets": 32,
+  "para_count": 52,
+  "para_chars": 3911,
+  "fences": 2,
+  "links": [
+   "https://jcr.clarivate.com",
+   "https://www.ssrn.com"
+  ],
+  "xref": []
+ },
+ "05-foreign-retrieval/sciencedirect-search.md": {
+  "lines": 253,
+  "headings": [
+   "# 5.2 ScienceDirect 检索实战：界面与高级检索",
+   "## 5.2.1 ScienceDirect 是什么",
+   "## 5.2.2 访问方式与权限",
+   "## 5.2.3 首页构成",
+   "### 从首页到高级检索的点击路径（逐步）",
+   "## 5.2.4 快速检索与高级检索的分工",
+   "## 5.2.5 Advanced search 面板详解",
+   "### ① 字段下拉（Field 下拉框）",
+   "### ② 检索框与 ③ 逻辑关系",
+   "### ④ 时间范围（Years）",
+   "### ⑤ Show more options",
+   "## 5.2.6 ScienceDirect 的检索语法",
+   "## 5.2.7 检索字段缩写的平台差异",
+   "## 5.2.8 文献类型识别",
+   "## 5.2.9 Open access 与 Subscription 标识",
+   "## 5.2.10 检索式的迭代优化",
+   "### 把括号逻辑“翻译”成 Advanced search 的多行界面",
+   "### Sort by：relevance 与 date 怎么选",
+   "## 5.2.11 课堂实操"
+  ],
+  "images": [
+   "/images/foreign/f01-sd-home.svg",
+   "/images/foreign/f02-sd-advanced-search.svg"
+  ],
+  "captions": [
+   "*图 5-2 ScienceDirect 首页。①检索框 ②Advanced search 入口 ③Browse journals and books。*",
+   "*图 5-3 ScienceDirect 高级检索界面。①字段下拉 ②检索框 ③逻辑关系 ④时间范围 ⑤Show more options。*"
+  ],
+  "containers": [
+   "warning",
+   "warning",
+   "没有机构权限时",
+   "warning",
+   "tip",
+   "warning",
+   "下面是",
+   "tip",
+   "tip",
+   "warning",
+   "tip"
+  ],
+  "tables": [
+   7,
+   7,
+   7,
+   7,
+   6,
+   4
+  ],
+  "bullets": 30,
+  "para_count": 56,
+  "para_chars": 4595,
+  "fences": 6,
+  "links": [
+   "https://scholar.google.com",
+   "https://www.sciencedirect.com",
+   "https://www.sciencedirect.com/search",
+   "https://www.webofscience.com"
+  ],
+  "xref": []
+ },
+ "05-foreign-retrieval/trace-and-cheatsheet.md": {
+  "lines": 252,
+  "headings": [
+   "# 5.6 引用追踪、检索语法速查与常见问题",
+   "## 5.6.1 Google Scholar 的定位",
+   "## 5.6.2 Google Scholar 的关键用法",
+   "### 被引用次数与“引用”入口",
+   "### 相关文章与所有版本",
+   "### 创建快讯（Create alert）",
+   "### 学者主页与 h-index 的局限",
+   "### 使用注意",
+   "## 5.6.3 用“引文追踪”扩展外文文献的三条路径",
+   "## 5.6.4 中外文检索语法对照速查表",
+   "## 5.6.5 迁移检索式的注意事项",
+   "## 5.6.6 外文检索常见问题速查表",
+   "## 5.6.7 外文文献在本科毕业论文中的使用建议",
+   "### 英文条目的格式模板",
+   "## 5.6.8 本部分小结：外文文献搜集的完整流程",
+   "## 课堂实操与提交成果"
+  ],
+  "images": [
+   "/images/foreign/f10-scholar-cited.svg",
+   "/images/foreign/f11-syntax-compare.svg"
+  ],
+  "captions": [
+   "*图 5-11 Google Scholar 的“被引用次数”与“引用”入口。*",
+   "*图 5-12 中外文数据库的检索字段与语法对照。*"
+  ],
+  "containers": [
+   "warning",
+   "warning",
+   "tip",
+   "warning",
+   "details",
+   "warning",
+   "tip",
+   "warning",
+   "details"
+  ],
+  "tables": [
+   7,
+   16,
+   12
+  ],
+  "bullets": 41,
+  "para_count": 43,
+  "para_chars": 2822,
+  "fences": 2,
+  "links": [
+   "https://doi.org/xxxx",
+   "https://scholar.google.com"
+  ],
+  "xref": []
+ },
+ "05-foreign-retrieval/wos-retrieval.md": {
+  "lines": 279,
+  "headings": [
+   "# 5.4 Web of Science：检索与精炼",
+   "## 5.4.1 Web of Science 是什么：引文索引数据库的定位",
+   "## 5.4.2 为什么用 WoS 而不只用 ScienceDirect",
+   "## 5.4.3 进入方式",
+   "## 5.4.4 检索界面构成",
+   "## 5.4.5 常用字段与检索语法",
+   "## 5.4.6 结果页构成与精炼",
+   "## 5.4.7 排序策略：什么时候用 Citations，什么时候用 Date",
+   "## 5.4.8 一条记录的详情页能读到什么",
+   "## 5.4.9 从一条记录追出更多文献",
+   "## 5.4.10 保存检索式与创建跟踪",
+   "## 5.4.11 导出题录",
+   "## 5.4.12 常见问题与故障速查表",
+   "## 课堂实操"
+  ],
+  "images": [
+   "/images/foreign/f06-wos-home.svg",
+   "/images/foreign/f07-wos-refine.svg"
+  ],
+  "captions": [
+   "*图 5-7 Web of Science 检索界面。①文档检索 ②字段下拉 ③检索框 ④添加检索行 ⑤时间范围。*",
+   "*图 5-8 WoS 结果页与 Refine results 面板。*"
+  ],
+  "containers": [
+   "tip",
+   "warning",
+   "warning",
+   "warning",
+   "details",
+   "warning",
+   "tip",
+   "details",
+   "warning",
+   "tip",
+   "warning",
+   "warning",
+   "details"
+  ],
+  "tables": [
+   7,
+   11,
+   14,
+   10
+  ],
+  "bullets": 59,
+  "para_count": 44,
+  "para_chars": 3454,
+  "fences": 0,
+  "links": [
+   "https://www.webofscience.com"
+  ],
+  "xref": []
+ },
+ "06-zotero/backup-and-workflow.md": {
+  "lines": 314,
+  "headings": [
+   "# 6.8 同步、备份与附件管理",
+   "## 6.8.1 为什么需要同步与备份",
+   "## 6.8.2 同步的两部分：数据与文件",
+   "## 6.8.3 配置账号同步",
+   "## 6.8.4 关于同步空间的说明",
+   "## 6.8.5 附件的两种存储模式",
+   "## 6.8.6 链接附件的适用场景与设置",
+   "## 6.8.7 附件文件命名",
+   "## 6.8.8 数据目录位置与备份",
+   "## 6.8.9 导出与导入",
+   "## 6.8.10 群组文库与协作（呼应 6.5.6）",
+   "## 6.8.11 多设备同步实战",
+   "## 6.8.12 恢复演练",
+   "## 6.8.13 从检索到写作的完整流程与时间线",
+   "## 6.8.14 常见问题速查表",
+   "## 6.8.15 数据目录迁移（换电脑全盘搬迁）",
+   "## 6.8.16 附件去重与文献库瘦身",
+   "## 6.8.17 隐私、账号与共享安全",
+   "## 6.8.18 备份介质对照",
+   "## 6.8.19 文献库健康度自检与学期末归档",
+   "## 6.8.20 提交成果"
+  ],
+  "images": [
+   "/images/zotero/z17-sync-preferences.svg",
+   "/images/zotero/z19-workflow.svg",
+   "/images/zotero/z18-duplicate-merge.svg"
+  ],
+  "captions": [
+   "*图 6-18 Zotero 设置中的「同步」面板。①勾选「同步我的文库」 ②选择文件同步方式（官方存储 / WebDAV / 不同步附件） ③确认附件保存位置。*",
+   "*图 6-19 从检索到定稿的八个环节，以及每个环节应留下的产物。*",
+   "*图 6-20 左栏“重复条目”视图：先保留字段更完整的条目，再合并附件与笔记。*"
+  ],
+  "containers": [
+   "warning",
+   "warning",
+   "warning",
+   "数据目录内部通常有两个关键部分",
+   "tip",
+   "tip",
+   "warning",
+   "warning",
+   "details",
+   "warning",
+   "归档完成后",
+   "tip"
+  ],
+  "tables": [
+   4,
+   4,
+   5,
+   6,
+   5,
+   11,
+   5,
+   8
+  ],
+  "bullets": 73,
+  "para_count": 54,
+  "para_chars": 3551,
+  "fences": 0,
+  "links": [
+   "https://www.zotero.org",
+   "https://www.zotero.org/support/",
+   "https://zotero-chinese.com"
+  ],
+  "xref": []
+ },
+ "06-zotero/capture-and-download.md": {
+  "lines": 408,
+  "headings": [
+   "# 6.4 拖动识别：把知网文献抓进 Zotero",
+   "## 6.4.1 三种入库方式全局对比",
+   "## 6.4.2 方式一：拖动识别（Drag and Drop）",
+   "### 6.4.2.1 场景 A：把检索结果列表的题名链接拖入",
+   "### 6.4.2.2 场景 B：把本地 PDF 文件拖入空白处",
+   "### 6.4.2.3 场景 C：把 PDF 拖到已有条目上",
+   "### 6.4.2.4 场景 D：把条目或文件拖到左栏某分类",
+   "### 6.4.2.5 “落在哪里”规则表",
+   "### 6.4.2.6 拖动识别后必须做的三件事",
+   "### 6.4.2.7 拖动识别的局限",
+   "## 6.4.3 方式二：连接器一键抓取（推荐）",
+   "### 6.4.3.1 在检索结果页批量抓取",
+   "### 6.4.3.2 在文献详情页抓取单条",
+   "### 6.4.3.3 保存窗口的结构说明",
+   "### 6.4.3.4 抓取后的检查",
+   "## 6.4.4 方式三：用茉莉花插件下载知网全文",
+   "### 6.4.4.1 知网全文下载的现实情况",
+   "### 6.4.4.2 用茉莉花下载 PDF 的步骤",
+   "### 6.4.4.3 CAJ 格式的处理",
+   "### 6.4.4.4 最朴素的办法：手工下载再挂附件",
+   "## 6.4.5 抓取失败排查表",
+   "## 6.4.6 抓取完成后立刻做的三件事",
+   "## 6.4.7 与其他章节的衔接",
+   "## 6.4.8 拖动识别的进阶技巧",
+   "## 6.4.9 连接器抓取的进阶用法",
+   "## 6.4.10 茉莉花的其他中文增强（不止下载 PDF）",
+   "## 6.4.11 批量抓取与文献量管理",
+   "## 6.4.12 英文文献如何进 Zotero",
+   "## 6.4.13 抓取与去重（Duplicate）配合",
+   "## 6.4.14 抓取阶段常见误解",
+   "## 6.4.15 与 6.5 / 6.6 衔接细化",
+   "## 6.4.16 抓取时的网络与权限自检",
+   "## 6.4.17 抓取记录与可追溯性（为什么要填对照表）",
+   "## 6.4.18 课堂实操",
+   "### 6.4.18.1 完成标准示例",
+   "### 6.4.18.2 常见答疑",
+   "### 6.4.18.3 与下一页衔接"
+  ],
+  "images": [
+   "/images/zotero/z08-drag-to-identify.svg",
+   "/images/zotero/z07-cnki-save-dialog.svg",
+   "/images/zotero/z09-cnki-download-pdf.svg"
+  ],
+  "captions": [
+   "*图 6-8 把知网检索结果中的文献拖到 Zotero 中间栏，自动创建条目。*",
+   "*图 6-9 点击连接器后弹出的“选择分类”窗口。*",
+   "*图 6-10 知网文献详情页的全文下载入口与 Zotero 附件栏。*"
+  ],
+  "containers": [
+   "warning",
+   "tip",
+   "tip",
+   "warning",
+   "warning",
+   "details",
+   "tip",
+   "warning",
+   "warning",
+   "tip",
+   "warning",
+   "tip",
+   "warning",
+   "warning",
+   "tip",
+   "details",
+   "warning"
+  ],
+  "tables": [
+   5,
+   8,
+   11,
+   7,
+   6,
+   7,
+   6
+  ],
+  "bullets": 105,
+  "para_count": 56,
+  "para_chars": 3425,
+  "fences": 0,
+  "links": [],
+  "xref": []
+ },
+ "06-zotero/citation-and-bibliography.md": {
+  "lines": 304,
+  "headings": [
+   "# 6.7 Word 引用与参考文献表",
+   "## 6.7.1 为什么要在 Word 里插引用而不是手打",
+   "## 6.7.2 文字处理器插件的安装",
+   "## 6.7.3 插入一条文内引用",
+   "## 6.7.4 编辑引用与添加页码",
+   "## 6.7.5 合并多篇引用",
+   "## 6.7.6 插入参考文献表",
+   "## 6.7.7 选择并更改引用样式",
+   "## 6.7.8 中文文献样式的特别检查",
+   "## 6.7.9 修改题录后刷新",
+   "## 6.7.10 定稿前解除域代码（谨慎）",
+   "## 6.7.11 引文格式细节",
+   "## 6.7.12 学校模板常见差异",
+   "## 6.7.13 从插入到生成文献表的完整走查",
+   "## 6.7.14 各类文献的 GB/T 7714-2015 输出样例",
+   "## 6.7.15 参考文献表的排版规范",
+   "## 6.7.16 引用写作的两种节奏与最佳实践",
+   "## 6.7.17 引用与查重的关系",
+   "## 6.7.18 引用样式管理与多文档写作",
+   "## 6.7.19 常见问题速查表",
+   "## 6.7.20 课堂实操"
+  ],
+  "images": [
+   "/images/zotero/z15-word-tab.svg",
+   "/images/zotero/z16-bibliography.svg"
+  ],
+  "captions": [
+   "*图 6-16 Word 中的 Zotero 选项卡与“添加引用”按钮。*",
+   "*图 6-17 由 Zotero 自动生成的参考文献表示例。*"
+  ],
+  "containers": [
+   "warning",
+   "tip",
+   "tip",
+   "tip",
+   "warning",
+   "tip",
+   "warning",
+   "tip",
+   "tip",
+   "tip"
+  ],
+  "tables": [
+   7,
+   6,
+   5,
+   8,
+   5,
+   8,
+   4,
+   12
+  ],
+  "bullets": 67,
+  "para_count": 49,
+  "para_chars": 3265,
+  "fences": 0,
+  "links": [
+   "http://...",
+   "https://doi.org/`",
+   "https://www.zotero.org/styles",
+   "https://www.zotero.org/support/word_processor_integration"
+  ],
+  "xref": []
+ },
+ "06-zotero/install-and-connector.md": {
+  "lines": 471,
+  "headings": [
+   "# 6.3 安装 Zotero、浏览器连接器与知网中文插件",
+   "## 6.3.1 下载：认准官网下载页",
+   "## 6.3.2 安装主程序",
+   "## 6.3.3 首次启动向导",
+   "## 6.3.4 注册并登录 Zotero 账号",
+   "## 6.3.5 安装浏览器连接器 Zotero Connector",
+   "## 6.3.6 连接器安装后的自检",
+   "## 6.3.7 为什么还要装“知网中文插件”",
+   "## 6.3.8 安装茉莉花插件",
+   "## 6.3.9 更新翻译器的方法",
+   "## 6.3.10 安装完成后的自检清单",
+   "## 6.3.11 常见问题速查表",
+   "## 6.3.12 安装顺序的总原则",
+   "## 6.3.13 各浏览器连接器安装的差异",
+   "## 6.3.14 茉莉花装好后的功能验证",
+   "## 6.3.15 浏览器无痕模式与容器标签的坑",
+   "## 6.3.16 卸载与干净重装（排障用）",
+   "## 6.3.17 安装阶段常见误解",
+   "## 6.3.18 与 6.4 的衔接",
+   "## 6.3.19 确认数据目录位置（为备份做准备）",
+   "## 6.3.20 多设备登录同一账号的注意事项",
+   "## 6.3.21 连接器与插件的版本匹配",
+   "## 6.3.22 安装排障决策树",
+   "## 6.3.23 安装完成后的端到端冒烟测试",
+   "## 6.3.24 课堂实操",
+   "### 6.3.24.1 完成标准示例",
+   "### 6.3.24.2 常见答疑",
+   "### 6.3.24.3 与下一页的衔接",
+   "### 6.3.24.4 版本信息记录建议",
+   "### 6.3.24.5 安装完成后的界面初览"
+  ],
+  "images": [
+   "/images/zotero/z01-zotero-download-page.svg",
+   "/images/zotero/z02-install-wizard.svg",
+   "/images/zotero/z04-connector-install.svg",
+   "/images/zotero/z05-connector-toolbar.svg",
+   "/images/zotero/z06-jasminum-install.svg"
+  ],
+  "captions": [
+   "*图 6-3 Zotero 官网下载页。左侧是主程序，右侧是浏览器连接器。*",
+   "*图 6-4 Zotero 安装向导。*",
+   "*图 6-5 在浏览器扩展商店安装 Zotero Connector。*",
+   "*图 6-6 浏览器工具栏上的 Zotero 连接器图标及其在知网页面的状态。*",
+   "*图 6-7 在 Zotero 中通过「工具 → 插件」安装本地 .xpi 插件文件。*"
+  ],
+  "containers": [
+   "warning",
+   "tip",
+   "warning",
+   "tip",
+   "warning",
+   "tip",
+   "warning",
+   "warning",
+   "warning",
+   "warning",
+   "tip",
+   "details",
+   "tip",
+   "warning",
+   "tip",
+   "warning",
+   "warning",
+   "tip",
+   "warning",
+   "warning",
+   "details",
+   "tip",
+   "details",
+   "warning",
+   "tip"
+  ],
+  "tables": [
+   5,
+   5,
+   6,
+   8,
+   10,
+   6,
+   6,
+   7,
+   5,
+   9
+  ],
+  "bullets": 95,
+  "para_count": 80,
+  "para_chars": 5870,
+  "fences": 0,
+  "links": [
+   "https://github.com/l0o0/jasminum",
+   "https://github.com/l0o0/translators_CN",
+   "https://www.cnki.net",
+   "https://www.zotero.org/download/",
+   "https://www.zotero.org/user/register",
+   "https://zotero-chinese.com",
+   "https://zotero-chinese.com/plugins/"
+  ],
+  "xref": []
+ },
+ "06-zotero/interface.md": {
+  "lines": 426,
+  "headings": [
+   "# 6.2 Zotero 界面：三栏结构与六个区域",
+   "## 6.2.1 打开 Zotero 后的第一眼：六个区域总览",
+   "## 6.2.2 区域① 菜单栏",
+   "## 6.2.3 区域② 工具栏",
+   "## 6.2.4 区域③ 左栏：资料库与分类",
+   "## 6.2.5 区域④ 中间栏：条目列表",
+   "## 6.2.6 区域⑤ 右栏：信息 / 摘要 / 附件 / 笔记 / 标签 / 相关",
+   "## 6.2.7 区域⑥ 左下角：标签过滤器",
+   "## 6.2.8 右下角预览区与布局切换",
+   "## 6.2.9 三个高频界面操作",
+   "## 6.2.10 把界面改成中文",
+   "## 6.2.11 界面速查表",
+   "## 6.2.12 初学者最容易认错的几处",
+   "## 6.2.13 右栏“信息”标签页：字段详解",
+   "## 6.2.14 附件的四种形态",
+   "## 6.2.15 笔记的两种类型",
+   "## 6.2.16 建立“相关文献”链接",
+   "## 6.2.17 标签与分类如何分工",
+   "## 6.2.18 中间栏右键菜单详解",
+   "## 6.2.19 左栏里的其他资料库",
+   "## 6.2.20 界面快捷键速查",
+   "## 6.2.21 界面常见问题与处理",
+   "## 6.2.22 界面如何支撑后续各页",
+   "## 6.2.23 课堂实操",
+   "### 6.2.23.1 一张合格截图应包含什么",
+   "### 6.2.23.2 常见答疑"
+  ],
+  "images": [
+   "/images/zotero/z03-main-window.svg"
+  ],
+  "captions": [
+   "*图 6-2 Zotero 主界面的六个区域。①菜单栏 ②工具栏 ③左栏：资料库与分类 ④中间栏：条目列表 ⑤右栏：信息 / 笔记 / 标签 / 相关 ⑥左下角：标签过滤器。*"
+  ],
+  "containers": [
+   "tip",
+   "warning",
+   "tip",
+   "warning",
+   "tip",
+   "warning",
+   "tip",
+   "warning",
+   "tip",
+   "warning",
+   "details",
+   "warning",
+   "tip",
+   "tip",
+   "details",
+   "warning",
+   "tip",
+   "warning",
+   "tip",
+   "details",
+   "tip",
+   "warning"
+  ],
+  "tables": [
+   8,
+   8,
+   9,
+   7,
+   9,
+   8,
+   12,
+   7,
+   12,
+   6,
+   6,
+   9,
+   9,
+   8,
+   10
+  ],
+  "bullets": 49,
+  "para_count": 64,
+  "para_chars": 4600,
+  "fences": 0,
+  "links": [],
+  "xref": []
+ },
+ "06-zotero/library-organization.md": {
+  "lines": 320,
+  "headings": [
+   "# 6.5 资料库组织：分类、标签与命名",
+   "## 6.5.1 为什么“抓下来”不等于“管好了”",
+   "## 6.5.2 分类与标签的分工",
+   "## 6.5.3 建立分类的原则",
+   "## 6.5.4 新建与维护分类",
+   "## 6.5.5 分类是“视图”不是“文件夹”",
+   "## 6.5.6 “我的文库”与“群组文库”",
+   "## 6.5.7 标签体系设计",
+   "## 6.5.8 标签的操作",
+   "## 6.5.9 保存的检索",
+   "## 6.5.10 分类与标签配合实例",
+   "## 6.5.11 附件命名与“链接附件”预告",
+   "## 6.5.12 组织质量的四条自查标准",
+   "## 6.5.13 资料库整理的常见误区",
+   "## 6.5.14 组织常见故障速查表",
+   "## 6.5.15 整理的频率建议",
+   "## 6.5.16 课堂实操"
+  ],
+  "images": [
+   "/images/zotero/z10-collections-tree.svg",
+   "/images/zotero/z11-tags-panel.svg"
+  ],
+  "captions": [
+   "*图 6-11 Zotero 左栏的资料库与分类树。*",
+   "*图 6-12 左下角的标签过滤器与彩色标签。*"
+  ],
+  "containers": [
+   "tip",
+   "tip",
+   "details",
+   "warning",
+   "warning",
+   "tip",
+   "tip",
+   "warning",
+   "tip"
+  ],
+  "tables": [
+   5,
+   7,
+   6,
+   6,
+   16,
+   4,
+   7,
+   8,
+   6
+  ],
+  "bullets": 59,
+  "para_count": 53,
+  "para_chars": 3068,
+  "fences": 2,
+  "links": [],
+  "xref": []
+ },
+ "06-zotero/metadata-and-reading.md": {
+  "lines": 330,
+  "headings": [
+   "# 6.6 题录校对、附件与阅读笔记",
+   "## 6.6.1 为什么必须手工校对题录",
+   "## 6.6.2 右侧“信息”面板的字段详解",
+   "## 6.6.3 作者字段的正确填法",
+   "## 6.6.4 条目类型的正确选择",
+   "## 6.6.5 中文文献字段的四个高频错误",
+   "## 6.6.6 从 PDF 自动提取元数据",
+   "## 6.6.7 手工新建条目",
+   "## 6.6.8 附件管理",
+   "## 6.6.9 阅读与批注",
+   "## 6.6.10 从批注到笔记",
+   "## 6.6.11 笔记的三层结构（重点方法）",
+   "## 6.6.12 阅读卡片模板",
+   "## 6.6.13 批注与笔记的分工提醒",
+   "## 6.6.14 批量校对与插件辅助",
+   "## 6.6.15 校对后的反向检查",
+   "## 6.6.16 校对与阅读常见问题速查表",
+   "## 6.6.17 课堂实操"
+  ],
+  "images": [
+   "/images/zotero/z12-metadata-panel.svg",
+   "/images/zotero/z13-pdf-reader.svg",
+   "/images/zotero/z14-item-notes.svg"
+  ],
+  "captions": [
+   "*图 6-13 Zotero 右侧信息栏的题录字段。①条目类型 ②标题 ③作者 ④出版物 ⑤卷期页码 ⑥日期 ⑦DOI。*",
+   "*图 6-14 Zotero 内置 PDF 阅读器。①页面缩略图 ②批注工具（高亮/下划线/便签/区域截图）③批注颜色 ④侧栏批注列表 ⑤笔记区。*",
+   "*图 6-15 条目下的笔记与子条目结构。*"
+  ],
+  "containers": [
+   "tip",
+   "warning",
+   "tip",
+   "warning",
+   "tip",
+   "tip",
+   "tip",
+   "warning"
+  ],
+  "tables": [
+   4,
+   17,
+   8,
+   7,
+   4,
+   6,
+   9,
+   6,
+   12
+  ],
+  "bullets": 51,
+  "para_count": 66,
+  "para_chars": 3258,
+  "fences": 0,
+  "links": [
+   "https://`",
+   "https://doi.org/`。",
+   "https://zotero-chinese.com"
+  ],
+  "xref": []
+ },
+ "06-zotero/what-is-zotero.md": {
+  "lines": 432,
+  "headings": [
+   "# 6.1 认识 Zotero：它解决什么问题",
+   "## 6.1.1 手工管理文献的六种典型困境",
+   "## 6.1.2 Zotero 是什么",
+   "### 6.1.2.1 数据目录：你的文献实际存在哪里",
+   "### 6.1.2.2 跨平台的具体含义",
+   "## 6.1.3 核心术语表",
+   "### 6.1.3.1 术语记忆口诀",
+   "## 6.1.4 Zotero 的五项核心能力",
+   "### 6.1.4.1 每项能力的输入与输出",
+   "### 6.1.4.2 五项能力的优先级",
+   "## 6.1.5 Zotero 的四个组成部分",
+   "### 6.1.5.1 四部分的安装顺序建议",
+   "## 6.1.6 与 EndNote、NoteExpress、Mendeley 的对比",
+   "### 6.1.1.1 六类困境的共同根因",
+   "## 6.1.7 为什么选 Zotero：数据格式开放",
+   "### 6.1.6.1 选型小结：本校环境优先",
+   "## 6.1.8 学习 Zotero 的前置条件清单",
+   "### 6.1.8.1 校外访问的两种常见方式",
+   "## 6.1.9 关于 Zotero 的四个常见误解",
+   "### 6.1.9.1 没有 Zotero 与有 Zotero：同一任务的对照",
+   "### 6.1.9.2 如何判断自己现在就需要 Zotero",
+   "## 6.1.10 Zotero 7 与版本现状",
+   "## 6.1.11 诚实清单：Zotero 做不到什么",
+   "## 6.1.12 端到端 mini 案例：从检索到引用一镜到底",
+   "## 6.1.13 从 EndNote / NoteExpress 迁移到 Zotero（简要）",
+   "## 6.1.14 官方资源导航",
+   "## 6.1.15 本章学习路线图",
+   "## 6.1.16 课堂实操",
+   "### 6.1.16.1 本页完成标准示例",
+   "### 6.1.16.2 常见答疑",
+   "### 6.1.16.3 与下一页的衔接"
+  ],
+  "images": [
+   "/images/zotero/z21-zotero-components.svg"
+  ],
+  "captions": [
+   "*图 6-1 Zotero 的四个组成部分及其分工。*"
+  ],
+  "containers": [
+   "tip",
+   "warning",
+   "tip",
+   "warning",
+   "details",
+   "details",
+   "tip",
+   "tip",
+   "warning",
+   "tip",
+   "tip",
+   "tip",
+   "warning",
+   "tip",
+   "details",
+   "warning",
+   "tip",
+   "warning",
+   "tip",
+   "tip",
+   "details",
+   "tip",
+   "tip"
+  ],
+  "tables": [
+   8,
+   10,
+   7,
+   7,
+   6,
+   6,
+   6,
+   7,
+   4,
+   6,
+   7,
+   7,
+   5,
+   8,
+   8,
+   11,
+   10
+  ],
+  "bullets": 39,
+  "para_count": 68,
+  "para_chars": 6411,
+  "fences": 0,
+  "links": [
+   "https://github.com/l0o0/jasminum",
+   "https://github.com/l0o0/translators_CN",
+   "https://www.cnki.net",
+   "https://www.zotero.org",
+   "https://www.zotero.org/download/",
+   "https://www.zotero.org/download/connector",
+   "https://www.zotero.org/support/",
+   "https://www.zotero.org/user/register",
+   "https://zotero-chinese.com",
+   "https://zotero-chinese.com/plugins/"
+  ],
+  "xref": []
+ },
+ "07-literature-review/organization.md": {
+  "lines": 50,
+  "headings": [
+   "# 2. 专题组织与段落结构",
+   "## 2.1 三种组织方式",
+   "### 按专题",
+   "### 按国内外",
+   "### 综合组织",
+   "## 2.2 专题划分的依据",
+   "## 2.3 段落的四步结构",
+   "## 2.4 一个简化例子",
+   "## 2.5 课堂练习"
+  ],
+  "images": [],
+  "captions": [],
+  "containers": [],
+  "tables": [],
+  "bullets": 8,
+  "para_count": 11,
+  "para_chars": 241,
+  "fences": 0,
+  "links": [],
+  "xref": []
+ },
+ "07-literature-review/purpose-and-scope.md": {
+  "lines": 43,
+  "headings": [
+   "# 1. 文献综述的任务与范围",
+   "## 1.1 文献综述回答四个问题",
+   "## 1.2 综述与摘要、读书笔记的区别",
+   "## 1.3 先写综述范围说明",
+   "## 1.4 文献质量与代表性",
+   "## 1.5 小练习"
+  ],
+  "images": [],
+  "captions": [],
+  "containers": [],
+  "tables": [
+   5
+  ],
+  "bullets": 9,
+  "para_count": 8,
+  "para_chars": 177,
+  "fences": 0,
+  "links": [],
+  "xref": []
+ },
+ "07-literature-review/synthesis-and-critique.md": {
+  "lines": 62,
+  "headings": [
+   "# 3. 归纳、比较与文献评述",
+   "## 3.1 “综”：归纳研究脉络",
+   "## 3.2 “述”：说明研究怎样完成",
+   "## 3.3 “评”：指出具体不足",
+   "## 3.4 比较表",
+   "## 3.5 从不足推导研究问题",
+   "## 3.6 小练习"
+  ],
+  "images": [],
+  "captions": [],
+  "containers": [],
+  "tables": [
+   4
+  ],
+  "bullets": 17,
+  "para_count": 12,
+  "para_chars": 232,
+  "fences": 0,
+  "links": [],
+  "xref": []
+ },
+ "07-literature-review/writing-practice.md": {
+  "lines": 61,
+  "headings": [
+   "# 4. 从阅读卡片到综述初稿",
+   "## 4.1 阅读卡片",
+   "## 4.2 初稿写作顺序",
+   "## 4.3 引用表达",
+   "## 4.4 课程作业",
+   "## 4.5 自检清单"
+  ],
+  "images": [],
+  "captions": [],
+  "containers": [],
+  "tables": [],
+  "bullets": 30,
+  "para_count": 8,
+  "para_chars": 107,
+  "fences": 0,
+  "links": [],
+  "xref": []
+ }
+}

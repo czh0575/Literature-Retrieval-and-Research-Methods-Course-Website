@@ -1,0 +1,31 @@
+/**
+ * 站点自定义样式
+ * 注意：以下选择器用于覆盖 VitePress 默认主题的 scoped 样式，
+ * 因此需要 !important 才能稳定生效。
+ */
+
+/* ------------------------------------------------------------------
+ * 首页 hero 主图尺寸
+ * VitePress 默认上限：192px（<640px）/ 256px（≥640px）/ 320px（≥960px）
+ * 这里整体调小约一档，避免主图过大压过标题文字。
+ * 如需再调整，只改下面三组数值即可（不要改 .image-container，
+ * 它在 ≥960px 是 width:100% 的弹性容器）。
+ * ------------------------------------------------------------------ */
+.VPHero .image-src {
+  max-width: 148px !important;
+  max-height: 148px !important;
+}
+
+@media (min-width: 640px) {
+  .VPHero .image-src {
+    max-width: 192px !important;
+    max-height: 192px !important;
+  }
+}
+
+@media (min-width: 960px) {
+  .VPHero .image-src {
+    max-width: 240px !important;
+    max-height: 240px !important;
+  }
+}

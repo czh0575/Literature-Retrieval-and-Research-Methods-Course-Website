@@ -1,0 +1,14 @@
+echo "===== 各站点 server_name 与 root ====="
+for f in /www/server/panel/vhost/nginx/*.conf; do
+  echo "--- $f"
+  grep -E "server_name|root |listen |index " "$f" | sed 's/^[ \t]*//'
+done
+echo "===== www.czhweb.cn ====="
+grep -E "server_name|root " /www/server/panel/vhost/nginx/www.czhweb.cn.conf
+echo "===== teaching.czhweb.cn 详情 ====="
+cat /www/server/panel/vhost/nginx/teaching.czhweb.cn.conf
+echo "===== teaching 站点目录内容 ====="
+ls -la /www/wwwroot/teaching.czhweb.cn
+ls -la /www/wwwroot/teaching_webapp
+echo "===== bind / 默认站点 ====="
+cat /www/server/panel/vhost/nginx/0.default.conf

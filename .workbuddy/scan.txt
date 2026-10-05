@@ -1,0 +1,148 @@
+=== 每页命中数（按密度排序）===
+  3.43/百行   14 处   408 行  06-zotero/capture-and-download.md
+  3.17/百行    8 处   252 行  05-foreign-retrieval/sciencedirect-refine.md
+  2.81/百行    9 处   320 行  06-zotero/library-organization.md
+  2.78/百行   12 处   432 行  06-zotero/what-is-zotero.md
+  2.55/百行    8 处   314 行  06-zotero/backup-and-workflow.md
+  2.51/百行    8 处   319 行  05-cnki-retrieval/screening-and-export.md
+  1.98/百行    5 处   252 行  05-foreign-retrieval/trace-and-cheatsheet.md
+  1.98/百行    5 处   252 行  05-foreign-retrieval/preparation.md
+  1.97/百行    6 处   304 行  06-zotero/citation-and-bibliography.md
+  1.96/百行    1 处    51 行  04-opening-report/background-and-significance.md
+  1.86/百行    5 处   269 行  05-cnki-retrieval/search-strategy.md
+  1.79/百行    1 处    56 行  04-opening-report/checklist.md
+  1.72/百行    1 处    58 行  03-topic-selection/principles.md
+  1.72/百行    1 处    58 行  02-academic-ethics/misconduct.md
+  1.58/百行    4 处   253 行  05-foreign-retrieval/sciencedirect-search.md
+  1.55/百行    4 处   258 行  05-cnki-retrieval/keyword-system.md
+  1.54/百行    4 处   260 行  05-cnki-retrieval/research-trace.md
+  1.49/百行    7 处   471 行  06-zotero/install-and-connector.md
+  1.21/百行    4 处   330 行  06-zotero/metadata-and-reading.md
+  1.18/百行    3 处   254 行  05-cnki-retrieval/core-journals.md
+  1.17/百行    5 处   426 行  06-zotero/interface.md
+  1.15/百行    3 处   261 行  05-cnki-retrieval/retrieval-log.md
+  1.10/百行    3 处   273 行  05-cnki-retrieval/cnki-interface.md
+  1.08/百行    3 处   279 行  05-foreign-retrieval/wos-retrieval.md
+  0.79/百行    2 处   253 行  05-foreign-retrieval/sci-ssci-and-jcr.md
+  0.00/百行    0 处    62 行  07-literature-review/synthesis-and-critique.md
+  0.00/百行    0 处    62 行  04-opening-report/methods-and-roadmap.md
+  0.00/百行    0 处    61 行  07-literature-review/writing-practice.md
+  0.00/百行    0 处    60 行  02-academic-ethics/citation-and-evidence.md
+  0.00/百行    0 处    59 行  03-topic-selection/empirical-topic.md
+  0.00/百行    0 处    58 行  04-opening-report/structure.md
+  0.00/百行    0 处    57 行  02-academic-ethics/ai-and-integrity.md
+  0.00/百行    0 处    50 行  07-literature-review/organization.md
+  0.00/百行    0 处    48 行  03-topic-selection/workflow-and-feasibility.md
+  0.00/百行    0 处    47 行  03-topic-selection/tax-directions.md
+  0.00/百行    0 处    44 行  02-academic-ethics/cases.md
+  0.00/百行    0 处    43 行  07-literature-review/purpose-and-scope.md
+
+=== 各标记总命中 ===
+   66  破折号
+   21  不是而是
+   21  元评论
+    7  判词
+    6  过渡连接词
+    5  排比堆叠
+
+=== 具体命中位置（前 12 页）===
+--- 06-zotero/capture-and-download.md
+    L3    [破折号] ——
+    L8    [破折号] ——
+    L30   [破折号] ——
+    L39   [破折号] ——
+    L205  [破折号] ——
+    L231  [破折号] ——
+    L65   [不是而是] 不是中间栏，而是
+    L344  [不是而是] 不是形式主义，而是
+    L388  [元评论] 下面给出
+    L298  [排比堆叠] 能用连接器抓过、又拖动识别抓过、还从知网导出导入过，
+--- 06-zotero/what-is-zotero.md
+    L28   [判词] 本质上
+    L33   [判词] 意味着什么
+    L47   [判词] 至关重要
+    L205  [破折号] ——
+    L338  [破折号] ——
+    L428  [破折号] ——
+    L28   [不是而是] 不是“你不够认真”，而是
+    L113  [不是而是] 不是彼此独立，而是
+    L292  [元评论] 本页讲
+    L410  [元评论] 下面给出
+    L292  [排比堆叠] 能更新），它在 PDF 阅读器、附件管理、
+    L431  [排比堆叠] 能力覆盖抓取、管理、批注、引用、同步；写毕业论文值得用，
+--- 06-zotero/library-organization.md
+    L20   [元评论] 本节讲
+    L46   [元评论] 下面给出
+    L155  [元评论] 下面给出
+    L233  [元评论] 下面给出
+    L35   [破折号] ——
+    L260  [破折号] ——
+    L275  [破折号] ——
+    L12   [不是而是] 不是“多读几篇”能解决的，而是
+    L20   [不是而是] 不是把 PDF 堆进软件，而是
+--- 05-cnki-retrieval/screening-and-export.md
+    L61   [破折号] ——
+    L101  [破折号] ——
+    L307  [破折号] ——
+    L314  [破折号] ——
+    L10   [不是而是] 不是几篇文献，而是
+    L264  [不是而是] 不是“我觉得没用”，而是
+    L279  [不是而是] 不是为你的预设结论找证据，而是
+    L298  [元评论] 下面给出
+--- 05-foreign-retrieval/sciencedirect-refine.md
+    L41   [过渡连接词] 此外，
+    L95   [过渡连接词] 此外，
+    L221  [过渡连接词] 此外，
+    L8    [元评论] 本章讲
+    L206  [元评论] 本页给出
+    L211  [不是而是] 不是终点，而是
+    L93   [判词] 不可或缺
+    L95   [破折号] ——
+--- 06-zotero/backup-and-workflow.md
+    L10   [破折号] ——
+    L59   [破折号] ——
+    L105  [破折号] ——
+    L298  [破折号] ——
+    L87   [元评论] 下面给出
+    L156  [元评论] 下面给出
+    L219  [不是而是] 不是靠同步，而是
+    L298  [判词] 本质上
+--- 06-zotero/install-and-connector.md
+    L241  [破折号] ——
+    L272  [破折号] ——
+    L326  [破折号] ——
+    L441  [破折号] ——
+    L464  [破折号] ——
+    L423  [元评论] 下面给出
+    L376  [排比堆叠] 能开、账号能登、连接器固定、茉莉花匹配已启用，仍抓不到或字段错，
+--- 06-zotero/citation-and-bibliography.md
+    L58   [破折号] ——
+    L105  [破折号] ——
+    L248  [破折号] ——
+    L60   [元评论] 下面给出
+    L215  [元评论] 下面给出
+    L204  [判词] 影响深远
+--- 05-cnki-retrieval/search-strategy.md
+    L116  [不是而是] 不是三次独立的搜索，而是
+    L186  [不是而是] 不是随便搜到的，而是
+    L171  [破折号] ——
+    L247  [破折号] ——
+    L127  [元评论] 下面给出
+--- 05-foreign-retrieval/preparation.md
+    L156  [破折号] ——
+    L157  [破折号] ——
+    L158  [破折号] ——
+    L159  [破折号] ——
+    L8    [元评论] 本章讲
+--- 05-foreign-retrieval/trace-and-cheatsheet.md
+    L16   [破折号] ——
+    L26   [破折号] ——
+    L197  [破折号] ——
+    L230  [破折号] ——
+    L145  [不是而是] 不是你操作错误，而是
+--- 06-zotero/interface.md
+    L128  [破折号] ——
+    L133  [破折号] ——
+    L380  [破折号] ——
+    L417  [破折号] ——
+    L404  [元评论] 下面给出

@@ -1,0 +1,8 @@
+grep -m3 -E "^version|version =" /www/server/panel/class/common.py
+ls -la /www/server/panel/pyenv/bin/python3 2>/dev/null
+ls -la /www/server/panel/data/api.json 2>/dev/null || echo "api.json 不存在"
+cat /www/server/panel/data/api.json 2>/dev/null
+ls -la /www/server/panel/data/default.db
+/www/server/panel/pyenv/bin/python3 -c "import sqlite3;c=sqlite3.connect('/www/server/panel/data/default.db');print([r for r in c.execute('select name,path,status from sites')])" 2>&1
+nginx -t 2>&1
+ls /www/server/panel/rewrite/nginx 2>/dev/null | head -3

@@ -1,0 +1,10 @@
+ls /www/server/panel/class/ | grep -i -E "ssl|acme" 
+echo "===== acme.sh ====="
+ls -la /root/.acme.sh/acme.sh 2>/dev/null || echo "无 acme.sh"
+ls /www/server/panel/plugin/ 2>/dev/null | grep -i -E "ssl|acme"
+echo "===== panelSSL 可用方法 ====="
+/www/server/panel/pyenv/bin/python3 -c "import sys;sys.path.insert(0,'/www/server/panel/class');sys.path.insert(0,'/www/server/panel');import panelSSL;print([m for m in dir(panelSSL.panelSSL) if 'Cert' in m or 'SSL' in m or 'ssl' in m])" 2>&1 | tail -2
+echo "===== acme_v2 可用方法 ====="
+/www/server/panel/pyenv/bin/python3 -c "import sys;sys.path.insert(0,'/www/server/panel/class');sys.path.insert(0,'/www/server/panel');import acme_v2;print([m for m in dir(acme_v2.acme_v2) if not m.startswith('__')][:40])" 2>&1 | tail -3
+echo "===== 已有证书目录 ====="
+ls -la /www/server/panel/vhost/cert/ 2>/dev/null

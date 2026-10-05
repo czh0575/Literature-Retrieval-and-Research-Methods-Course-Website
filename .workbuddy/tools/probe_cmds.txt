@@ -1,0 +1,22 @@
+# 云服务器环境勘查（每行一条命令，远程执行）
+echo "===== 系统 ====="
+cat /etc/os-release | head -3
+uname -m
+echo "===== 资源 ====="
+free -m | head -2
+df -h / | tail -1
+echo "===== 宝塔面板 ====="
+cat /www/server/panel/class/common.py 2>/dev/null | head -1
+cat /www/server/panel/data/port.pl 2>/dev/null
+cat /www/server/panel/data/admin_path.pl 2>/dev/null
+echo "===== 面板管理的网站目录 /www/wwwroot ====="
+ls -la /www/wwwroot 2>/dev/null
+echo "===== Nginx ====="
+/www/server/nginx/sbin/nginx -v 2>&1
+ls -la /www/server/panel/vhost/nginx/ 2>/dev/null
+echo "===== Apache（若有） ====="
+/www/server/httpd/bin/httpd -v 2>&1 | head -2
+echo "===== 监听端口 ====="
+ss -lntp 2>/dev/null | head -25
+echo "===== 已有站点根目录占用 ====="
+du -sh /www/wwwroot/* 2>/dev/null

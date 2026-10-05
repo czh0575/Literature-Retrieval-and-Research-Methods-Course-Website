@@ -1,0 +1,76 @@
+=== 每页命中数（按密度排序）===
+  1.96/百行    1 处    51 行  04-opening-report/background-and-significance.md
+  1.89/百行    6 处   317 行  05-cnki-retrieval/screening-and-export.md
+  1.79/百行    1 处    56 行  04-opening-report/checklist.md
+  1.72/百行    1 处    58 行  03-topic-selection/principles.md
+  1.72/百行    1 处    58 行  02-academic-ethics/misconduct.md
+  0.61/百行    2 处   326 行  06-zotero/metadata-and-reading.md
+  0.57/百行    2 处   350 行  06-zotero/capture-and-download.md
+  0.40/百行    1 处   251 行  05-foreign-retrieval/sciencedirect-search.md
+  0.40/百行    1 处   252 行  05-foreign-retrieval/trace-and-cheatsheet.md
+  0.40/百行    1 处   253 行  05-foreign-retrieval/sci-ssci-and-jcr.md
+  0.39/百行    1 处   258 行  05-cnki-retrieval/keyword-system.md
+  0.37/百行    1 处   269 行  05-cnki-retrieval/search-strategy.md
+  0.37/百行    1 处   273 行  05-cnki-retrieval/cnki-interface.md
+  0.33/百行    1 处   306 行  06-zotero/backup-and-workflow.md
+  0.31/百行    1 处   320 行  06-zotero/library-organization.md
+  0.25/百行    1 处   400 行  06-zotero/what-is-zotero.md
+  0.24/百行    1 处   422 行  06-zotero/install-and-connector.md
+  0.00/百行    0 处   364 行  06-zotero/interface.md
+  0.00/百行    0 处   302 行  06-zotero/citation-and-bibliography.md
+  0.00/百行    0 处   279 行  05-foreign-retrieval/wos-retrieval.md
+  0.00/百行    0 处   261 行  05-cnki-retrieval/retrieval-log.md
+  0.00/百行    0 处   260 行  05-cnki-retrieval/research-trace.md
+  0.00/百行    0 处   254 行  05-cnki-retrieval/core-journals.md
+  0.00/百行    0 处   252 行  05-foreign-retrieval/sciencedirect-refine.md
+  0.00/百行    0 处   252 行  05-foreign-retrieval/preparation.md
+  0.00/百行    0 处    62 行  07-literature-review/synthesis-and-critique.md
+  0.00/百行    0 处    62 行  04-opening-report/methods-and-roadmap.md
+  0.00/百行    0 处    61 行  07-literature-review/writing-practice.md
+  0.00/百行    0 处    60 行  02-academic-ethics/citation-and-evidence.md
+  0.00/百行    0 处    59 行  03-topic-selection/empirical-topic.md
+  0.00/百行    0 处    58 行  04-opening-report/structure.md
+  0.00/百行    0 处    57 行  02-academic-ethics/ai-and-integrity.md
+  0.00/百行    0 处    50 行  07-literature-review/organization.md
+  0.00/百行    0 处    48 行  03-topic-selection/workflow-and-feasibility.md
+  0.00/百行    0 处    47 行  03-topic-selection/tax-directions.md
+  0.00/百行    0 处    44 行  02-academic-ethics/cases.md
+  0.00/百行    0 处    43 行  07-literature-review/purpose-and-scope.md
+
+=== 各标记总命中 ===
+   14  不是而是
+    7  破折号
+    3  排比堆叠
+
+=== 具体命中位置（前 12 页）===
+--- 05-cnki-retrieval/screening-and-export.md
+    L59   [破折号] ——
+    L99   [破折号] ——
+    L305  [破折号] ——
+    L312  [破折号] ——
+    L262  [不是而是] 不是“我觉得没用”，而是
+    L277  [不是而是] 不是为你的预设结论找证据，而是
+--- 06-zotero/capture-and-download.md
+    L63   [不是而是] 不是中间栏，而是
+    L266  [排比堆叠] 能用连接器抓过、又拖动识别抓过、还从知网导出导入过，
+--- 06-zotero/metadata-and-reading.md
+    L192  [破折号] ——
+    L230  [破折号] ——
+--- 02-academic-ethics/misconduct.md
+    L18   [不是而是] 不是让所有文章写成同一种样子，而是
+--- 03-topic-selection/principles.md
+    L56   [不是而是] 不是为了选出最高分，而是
+--- 04-opening-report/background-and-significance.md
+    L28   [排比堆叠] 可以是澄清概念、补充机制解释、构建指标、
+--- 04-opening-report/checklist.md
+    L26   [不是而是] 不是数量，而是
+--- 05-cnki-retrieval/cnki-interface.md
+    L111  [不是而是] 不是单独一个位置，而是
+--- 05-cnki-retrieval/keyword-system.md
+    L206  [不是而是] 不是终点，而是
+--- 05-cnki-retrieval/search-strategy.md
+    L116  [不是而是] 不是三次独立的搜索，而是
+--- 05-foreign-retrieval/sci-ssci-and-jcr.md
+    L10   [不是而是] 不是期刊等级，而是
+--- 05-foreign-retrieval/sciencedirect-search.md
+    L226  [不是而是] 不是“这个主题没人研究”，而是

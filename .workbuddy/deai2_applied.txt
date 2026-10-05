@@ -1,0 +1,9 @@
+=== 定点改写 ===
+定点改写：成功 56 处，未命中 0 处
+=== 删除重复小节 ===
+  [已删] 06-zotero/capture-and-download.md  ## 6.4.7 与其他章节的衔接  （10 行）
+  [已删] 06-zotero/capture-and-download.md  ## 6.4.15 与 6.5 / 6.6 的衔接  （9 行）
+  [已删] 06-zotero/install-and-connector.md  ## 6.3.18 与 6.4 的衔接  （4 行）
+  [已删] 06-zotero/install-and-connector.md  ### 6.3.24.3 与下一页的衔接  （4 行）
+=== 编号重排 ===
+编号重排：capture-and-download 56 处，install-and-connector 56 处，跨文件交叉引用 1 处

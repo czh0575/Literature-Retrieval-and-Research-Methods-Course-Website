@@ -1,0 +1,9 @@
+grep -rn "apply_cert(" /www/server/panel/class/*.py /www/server/panel/mod/*.py 2>/dev/null | head -20
+echo "===== ssl_manage 里怎么调 ====="
+grep -n -B3 -A12 "apply_cert(" /www/server/panel/class/ssl_manage.py 2>/dev/null | head -60
+echo "===== 站点配置里的 well-known ====="
+grep -n "well-known\|CERT-APPLY" /www/server/panel/vhost/nginx/wxjs.czhweb.cn.conf
+ls -la /www/server/panel/vhost/nginx/well-known/ | head
+echo "===== 服务器能否出网 ====="
+curl -s -o /dev/null -w "acme-v02.api.letsencrypt.org HTTP %{http_code}\n" --max-time 10 https://acme-v02.api.letsencrypt.org/directory
+curl -s -o /dev/null -w "acme-v01(zerossl) HTTP %{http_code}\n" --max-time 10 https://acme.zerossl.com/v2/DV90

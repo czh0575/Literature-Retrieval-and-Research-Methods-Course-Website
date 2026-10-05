@@ -1,0 +1,12 @@
+echo "===== ssl_manage 方法 ====="
+/www/server/panel/pyenv/bin/python3 -c "import sys;sys.path.insert(0,'/www/server/panel/class');sys.path.insert(0,'/www/server/panel');import ssl_manage;print([m for m in dir(ssl_manage.ssl_manage) if not m.startswith('_')])" 2>&1 | tail -2
+echo "===== panelSite 里 Set* 方法 ====="
+/www/server/panel/pyenv/bin/python3 -c "import sys;sys.path.insert(0,'/www/server/panel/class');sys.path.insert(0,'/www/server/panel');import panelSite;print([m for m in dir(panelSite.panelSite) if m.startswith('Set') or m.startswith('Get') and 'SSL' in m])" 2>&1 | tail -2
+echo "===== 谁调用 SetCertToSite ====="
+grep -rn "SetCertToSite\|set_cert_to_site" /www/server/panel/class/*.py /www/server/panel/mod/*.py 2>/dev/null | head -10
+echo "===== ssl_data.db 表 ====="
+/www/server/panel/pyenv/bin/python3 -c "
+import sqlite3
+c=sqlite3.connect('/www/server/panel/data/db/ssl_data.db')
+print([r[0] for r in c.execute(\"select name from sqlite_master where type='table'\")])
+" 2>&1 | tail -2

@@ -1,0 +1,26 @@
+  [未命中] 05-cnki-retrieval/keyword-system.md :: 检索（Retrieval）的本质是“带着问题找答案”，而不是“在数据库里随便逛”。
+  [未命中] 05-cnki-retrieval/keyword-system.md :: 题目是检索的“地图”，关键词是“路标”。地图画好，数据库只是用来验证和补充，而不是用来替你思
+  [未命中] 05-cnki-retrieval/keyword-system.md :: 这里引入“关键词金字塔（Keyword Pyramid）”模型，帮助你在检索时既保证相关性，
+  [未命中] 05-cnki-retrieval/keyword-system.md :: 检索的本质是“用作者的词找作者的文”，所以你必须先穷尽作者可能用过的词。
+  [未命中] 05-cnki-retrieval/cnki-interface.md :: 检索技巧建立在你对界面的准确理解之上。
+  [未命中] 05-cnki-retrieval/cnki-interface.md :: 这里是真正“读文献”的入口，也藏着重要的“知网节（CNKI Node）”功能：
+  [未命中] 05-cnki-retrieval/core-journals.md :: 很多同学误以为“只引核心刊就够”。事实上，本科论文同样需要以下非核心期刊文献：
+  [未命中] 05-cnki-retrieval/research-trace.md :: 关键文献的参考文献，是它立论所依赖的“地基”。
+  [未命中] 05-cnki-retrieval/retrieval-log.md :: 筛选完成后，下一步是把保留的文献“带走”，即导出题录（Bibliographic Recor
+  [未命中] 05-foreign-retrieval/preparation.md :: 下面这些“准备误区”在本科生中极为普遍，请逐条自查。
+  [未命中] 05-foreign-retrieval/sciencedirect-search.md :: 需要明确一点：ScienceDirect 是“全文数据库”而非“引文索引库”。
+  [未命中] 05-foreign-retrieval/sciencedirect-search.md :: 无论用快速检索还是高级检索，掌握以下语法都能显著提升检索质量。
+  [未命中] 05-foreign-retrieval/sciencedirect-search.md :: 第一次检索的结果往往不完美。与其反复重来，不如用“迭代”思路逐步逼近：先宽后窄、先看量再调质
+  [未命中] 05-foreign-retrieval/sciencedirect-refine.md :: Refine by 是结果页最有用的“事后筛选”工具。逐项说明如下。
+  [未命中] 05-foreign-retrieval/sciencedirect-refine.md :: 当你遇到无权限的 Subscription 文章时，不要放弃。下面六条合法途径按“最省力→最
+  [未命中] 05-foreign-retrieval/wos-retrieval.md :: 它与普通的全文数据库（如 ScienceDirect）在定位上有本质差别：ScienceDi
+  [未命中] 05-foreign-retrieval/wos-retrieval.md :: WoS 的核心资产是**引文索引**。
+  [未命中] 05-foreign-retrieval/wos-retrieval.md :: 做一次完整的“ snowballing（滚雪球）”：
+  [未命中] 05-foreign-retrieval/trace-and-cheatsheet.md :: 是最广为人知的中立学术搜索引擎。
+  [未命中] 05-foreign-retrieval/trace-and-cheatsheet.md :: 以下给出两种规范下常见外文文献类型的**格式模板**（用占位符示意，你需替换为真实信息；注意
+  [未命中] 05-foreign-retrieval/trace-and-cheatsheet.md :: ## 5.6.8 本部分小结：外文文献搜集的完整流程
+  [未命中] 05-foreign-retrieval/trace-and-cheatsheet.md :: 外文文献搜集的完整流程可以归为七步：
+  [未命中] 05-foreign-retrieval/sci-ssci-and-jcr.md :: 要回答这些问题，首先要分清几组**收录体系（引文索引）**的概念。
+  [未命中] 05-foreign-retrieval/sci-ssci-and-jcr.md :: 该文使用的微观数据（如某国税收调查）你是否拿不到？若无法复现，引用时需谨慎说明。
+---
+规则 24 条，处理 0 条，异常 24 条，模式：APPLY

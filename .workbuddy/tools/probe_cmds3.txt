@@ -1,0 +1,7 @@
+grep -H -E "server_name|^[[:space:]]*root " /www/server/panel/vhost/nginx/*.conf /www/server/panel/vhost/nginx/proxy/*/*.conf 2>/dev/null | sed 's|/www/server/panel/vhost/nginx/||'
+echo "===== 各站点目录 ====="
+ls -la /www/wwwroot/tools.czhweb.cn /www/wwwroot/teaching_webapp /www/wwwroot/ZYU_teaching_material 2>/dev/null
+echo "===== 宝塔站点列表(数据库) ====="
+sqlite3 /www/server/panel/data/default.db "select name,path,status from sites;" 2>/dev/null || echo "sqlite3 不可用"
+echo "===== 已解析到本机的域名(反查 /www/wwwlogs) ====="
+ls /www/wwwlogs/ 2>/dev/null
